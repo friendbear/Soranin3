@@ -1,0 +1,11 @@
+[db1]
+driver=org.postgresql.Driver
+url=jdbc:postgresql:/localhost/testdb1
+user=postgres
+password=ppostgres
+
+[db2]
+driver=org.postgresql.Driver
+url=jdbc:postgresql:/localhost/testdb2
+user=postgres
+password=ppostgres
